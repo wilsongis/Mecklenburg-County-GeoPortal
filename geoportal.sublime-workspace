@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ec",
+				"except\t(9_Step_CPD_CSV.py)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nGitGutter\n---------\n\n  1.7.13:\n  -------\n  \n    Fix:\n     - New `tempfile` module conflicts with stdlib in ST2\n     - A typo in the recent release message of 1.7.12\n  \n  \n  💛 Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer the following discounts:\n  \n  +------------------------------------------------+\n  |                                                |\n  |   Use the coupon code GITGUTTER for $10 off    |\n  |                                                |\n  +------------------------------------------------+\n  \n  🏅 ⭐ ES6 ⭐\n  \n  👉 ES6.io/friend/GITGUTTER\n  \n  🏅 ⭐ Sublime Text Book ⭐\n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  \n  🏅 ⭐ React For Beginners ⭐\n  \n  👉 ReactForBeginners.com/friend/GITGUTTER\n  \n  \n  Join 15,000 other developers already learning with Wes Bos.\n  \n  These are fantastic resources - 100% money back guarantee! 🌟\n",
+			"settings":
+			{
+				"buffer_size": 932,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 652.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wilsonm/geoportal"
+	],
+	"file_history":
+	[
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/18-004-Campus-BIM/ReadMe.md",
+		"/Volumes/Production/CMCGIS_DATA/Updates/DataIn_new/4 Montgomery_County/vwParcel.txt",
+		"/Volumes/Production/CMCGIS_DATA/CMCUpdates/Scripts/2_Step_M10gdbImport.py",
+		"/Volumes/Production/CMCGIS_DATA/CMCUpdates/Scripts/CMCUpdates.py",
+		"/Users/wilsonm/ActiveProjects/Parcels/Scripts/CSV2Table.py",
+		"/Users/wilsonm/Dropbox (APSU GIS)/APSU Sample Data/Script/XYInside.py",
+		"/Users/wilsonm/ActiveProjects/Parcels/MontgomeryParcels.txt",
+		"/Users/wilsonm/ActiveProjects/18-005-TAF2018/Drafts/VR Lab.md",
+		"/Users/wilsonm/ActiveProjects/18-005-TAF2018/Drafts/Networking.md",
+		"/Users/wilsonm/ActiveProjects/18-014-Coopertown Map/ReadMe.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/Archive/15-010-2016_APSU_Budget/README.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/18-011-NIST/ReadMe.md",
+		"/Users/wilsonm/Library/Application Support/Übersicht/widgets/weather.widget/README.md",
+		"/Users/wilsonm/Library/Application Support/Übersicht/widgets/simple-clock.widget/index.coffee",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/18-008-TIPS Sudden Science Research Grant/ReadMe.md",
+		"/Users/wilsonm/ActiveProjects/18-006-TAFTechGrant/ReadMe.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/static/nanopub/README.md",
+		"/Users/wilsonm/ActiveProjects/17-059-CheathamCensus/ReadMe.md",
+		"/Users/wilsonm/ActiveProjects/17-050-Vet Reconnect/ReadMe.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Holding/Erinne",
+		"/Users/wilsonm/Library/Containers/com.unsignedinteger.Deckset/Data/Library/Application Support/com.unsignedinteger.Deckset/example/40 Education/Education.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/content/blog/big-data.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/config.toml",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/README.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/themes/hugo-universal-theme/layouts/partials/clients.html",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/themes/hugo-universal-theme/layouts/partials/testimonials.html",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/data/carousel/books.yaml",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/data/carousel/random.yaml",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/content/blog/civil-rights.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/content/arcbasics.md",
+		"/Users/wilsonm/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/content/blog/life-and-poker.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/data/features/webdesign.yaml",
+		"/Users/wilsonm/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/themes/hugo-universal-theme/i18n/en.yaml",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/data/testimonials/1.yaml",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/themes/hugo-universal-theme/static/css/style.gold.css",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/data/carousel/design.yaml",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/data/carousel/work.yaml",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/themes/hugo-universal-theme/static/css/style.red.css",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/content/blog/my-first-post.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/content/faq.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/content/contact.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/_config.yml",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/index.md",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/MWF/minimalworkflow.com/Gemfile",
+		"/Users/wilsonm/minimalworkflow.com/Gemfile",
+		"/Users/wilsonm/Dropbox (APSU GIS)/Cheatham Addressing/Pending Address Requests/test.txt",
+		"/Users/wilsonm/Library/Application Scripts/com.omnigroup.OmniFocus2/OmniFocusDailyMaintenance.scpt",
+		"/Users/wilsonm/Library/Application Scripts/com.omnigroup.OmniFocus2/Support.applescript",
+		"/Users/wilsonm/Library/Application Support/Übersicht/widgets/sps.widget/index.coffee",
+		"/Users/wilsonm/Library/Application Support/Übersicht/widgets/omnifocusflags.widget/index.coffee",
+		"/Users/wilsonm/Library/Application Support/Übersicht/widgets/weather.widget/index.coffee",
+		"/Users/wilsonm/Downloads/htaccess",
+		"/Users/wilsonm/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								932,
+								932
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Erlang/Erlang.sublime-build",
+	"project": "geoportal.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
