@@ -1,4 +1,5 @@
 .directory
+.directory
 .htaccess
 node_modules
 deploy.sh

@@ -71,10 +71,10 @@ export default {
     getResults: function(query) {
       let _this = this;
       let params = {
-        tables: "address,park,library,school,pid,business"
+        tables: "owner" //"address,park,library,school,pid,owner"
       };
       fetch(
-        `https://mcmap.org/api/search/v1/${query.toLowerCase()}?${jsonToURL(
+        `http://localhost:8123/search/v1/${query.toLowerCase()}?${jsonToURL(
           params
         )}`
       )

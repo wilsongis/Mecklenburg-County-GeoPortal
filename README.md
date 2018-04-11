@@ -6,6 +6,12 @@
 
 Created by Mecklenburg County GIS, with much ♥ for the projects that make this site possible: OpenStreetMap, OpenMapTiles, Mapbox GL JS, Vue.js, and Material Design Lite
 
+Yarn must be installed to build. To Install:
+
+```bash
+brew install yarn
+```
+
 
 ## Getting started
 

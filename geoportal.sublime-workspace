@@ -12,22 +12,47 @@
 	"buffers":
 	[
 		{
-			"contents": "Package Control Messages\n========================\n\nGitGutter\n---------\n\n  1.7.13:\n  -------\n  \n    Fix:\n     - New `tempfile` module conflicts with stdlib in ST2\n     - A typo in the recent release message of 1.7.12\n  \n  \n  💛 Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer the following discounts:\n  \n  +------------------------------------------------+\n  |                                                |\n  |   Use the coupon code GITGUTTER for $10 off    |\n  |                                                |\n  +------------------------------------------------+\n  \n  🏅 ⭐ ES6 ⭐\n  \n  👉 ES6.io/friend/GITGUTTER\n  \n  🏅 ⭐ Sublime Text Book ⭐\n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  \n  🏅 ⭐ React For Beginners ⭐\n  \n  👉 ReactForBeginners.com/friend/GITGUTTER\n  \n  \n  Join 15,000 other developers already learning with Wes Bos.\n  \n  These are fantastic resources - 100% money back guarantee! 🌟\n",
+			"file": "/Users/wilsonm/geoportal-api/README.md",
 			"settings":
 			{
-				"buffer_size": 932,
-				"line_ending": "Unix",
-				"name": "Package Control Messages",
-				"read_only": true,
-				"scratch": true
+				"buffer_size": 3790,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".gitignore",
+			"file": "/Users/wilsonm/geoportal-api/config/index.js",
 			"settings":
 			{
-				"buffer_size": 87,
-				"line_ending": "Windows"
+				"buffer_size": 3822,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/search.js",
+			"settings":
+			{
+				"buffer_size": 3288,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/index.html",
+			"settings":
+			{
+				"buffer_size": 23747,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/index.html",
+			"settings":
+			{
+				"buffer_size": 23747,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -77,10 +102,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/wilsonm/geoportal"
+		"/Users/wilsonm/geoportal",
+		"/Users/wilsonm/geoportal/app",
+		"/Users/wilsonm/geoportal/app/assets",
+		"/Users/wilsonm/geoportal/app/components",
+		"/Users/wilsonm/geoportal/build",
+		"/Users/wilsonm/geoportal/dist"
 	],
 	"file_history":
 	[
+		"/Users/wilsonm/geoportal/app/assets/index.html",
+		"/Users/wilsonm/geoportal-api/package.json",
+		"/Users/wilsonm/geoportal/.gitignore",
+		"/Users/wilsonm/ActiveProjects/Parcels/CMCUpdates/Scripts/CMCUpdates.sublime-project",
+		"/Users/wilsonm/geoportal/README.md",
+		"/Users/wilsonm/geoportal-api/.gitignore",
 		"/Users/wilsonm/Dropbox (APSU GIS)/Projects/18-004-Campus-BIM/ReadMe.md",
 		"/Volumes/Production/CMCGIS_DATA/Updates/DataIn_new/4 Montgomery_County/vwParcel.txt",
 		"/Volumes/Production/CMCGIS_DATA/CMCUpdates/Scripts/2_Step_M10gdbImport.py",
@@ -153,6 +189,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"localhost"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -170,47 +207,16 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "/Users/wilsonm/geoportal-api/README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 932,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								932,
-								932
-							]
-						],
-						"settings":
-						{
-							"auto_indent": false,
-							"incomplete_sync": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_width": 2,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": ".gitignore",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 87,
+						"buffer_size": 3790,
 						"regions":
 						{
 						},
@@ -227,10 +233,144 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 751.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/wilsonm/geoportal-api/config/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1635,
+								1635
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 116.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/components/search.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2814,
+								2814
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4176,
+								4176
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1367.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dist/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 23747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1499.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
