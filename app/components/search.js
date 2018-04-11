@@ -71,7 +71,7 @@ export default {
     getResults: function(query) {
       let _this = this;
       let params = {
-        tables: "owner" //"address,park,library,school,pid,owner"
+        tables: "address,owner,park,school" //"address,park,library,school,pid,owner"
       };
       fetch(
         `http://localhost:8123/search/v1/${query.toLowerCase()}?${jsonToURL(
