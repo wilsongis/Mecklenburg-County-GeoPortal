@@ -16,7 +16,7 @@ brew install yarn
 ## Getting started
 
 ```bash
-git clone hhttps://github.com/wilsongis/Montgomery-County-GeoPortal.git geoportal
+git clone https://github.com/wilsongis/Montgomery-County-GeoPortal.git geoportal
 cd geoportal
 npm install
 npm run build
